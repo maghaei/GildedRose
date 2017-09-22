@@ -19,7 +19,8 @@ public class GildedRoseTest {
 //   Item("Sulfuras, Hand of Ragnaros", 0, 80));
 //   Item("Backstage passes to a TAFKAL80ETC concert", 15, 20));
 //   Item("Conjured Mana Cake", 3, 6));
-
+//
+	
 	@Test
 	public void test_updateEndofDay_NewItem_Quality_10_9()
 	{
